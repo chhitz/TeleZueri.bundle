@@ -9,7 +9,7 @@ TELE_ZUERI_SERVERLIST_URL = "http://server072.20min-tv.ch/lb_20min/servers.xml?8
 
 NAME = L('Title')
 
-ART           = 'art-default.png'
+ART           = 'art-default.jpg'
 ICON          = 'icon-default.png'
 
 ####################################################################################################
